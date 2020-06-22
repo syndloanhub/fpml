@@ -73,6 +73,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\RoutingIdsAndExplicitDetails.cla
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditLimitBase.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PCDeliverableObligationCharac.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementMethod.class
+com\syndloanhub\loansum\fpml\v5_11\util\FpMLNamespacePrefixMapper.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommitmentAdjustment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FloatingAmountEvents.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ObservedRate.class
@@ -1086,6 +1087,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessDateRange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Metal.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReportSectionIdentification.class
+com\syndloanhub\loansum\fpml\v5_11\util\LocalDateAdapter.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeIdentifierExtended.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AccruingFeeType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPayRelativeToEvent.class

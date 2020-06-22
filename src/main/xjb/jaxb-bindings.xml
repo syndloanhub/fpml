@@ -15,4 +15,8 @@
 			printMethod="com.syndloanhub.loansum.fpml.v5_11.util.LocalDateAdapter.print" />
 		<xjc:serializable uid="54" />
 	</jaxb:globalBindings>
+	
+	<jaxb:bindings schemaLocation="../xsd/confirmation/fpml-loan-5-11.xsd">
+    </jaxb:bindings>
+    
 </jaxb:bindings>
