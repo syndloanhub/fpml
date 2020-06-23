@@ -3125,7 +3125,7 @@
     <xsd:restriction base="xsd:token">
       <xsd:enumeration value="AbsoluteTerms">
         <xsd:annotation>
-          <xsd:documentation source="http://www.FpML.org" xml:lang="en">The price is expressed as an absolute amount.&gt;</xsd:documentation>
+          <xsd:documentation source="http://www.FpML.org" xml:lang="en">The price is expressed as an absolute amount.</xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
       <xsd:enumeration value="PercentageOfNotional">
