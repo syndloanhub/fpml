@@ -5,7 +5,6 @@ import java.util.Map;
 
 import com.sun.xml.internal.bind.marshaller.NamespacePrefixMapper;
 
-@SuppressWarnings("restriction")
 public class FpMLNamespacePrefixMapper extends NamespacePrefixMapper {
 	private Map<String, String> nsuri2prefixMap = new HashMap<String, String>();
 
