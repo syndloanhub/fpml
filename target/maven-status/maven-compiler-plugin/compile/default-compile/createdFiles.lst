@@ -752,6 +752,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Restructuring.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Lag.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityRelativeExpirationDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingCostOfCarryAccrual.class
+com\syndloanhub\loansum\fpml\v5_11\util\IntAdapter.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxBarrierTypeEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnSwapPaymentDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MetalTitleEnum.class
@@ -779,6 +780,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\WithholdingTaxReason.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReportingRegimeIdentifier.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WeatherLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\RelativeDateSequence.class
+com\syndloanhub\loansum\fpml\v5_11\util\DoubleAdapter.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnSwapBase.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OptionEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DisruptionFallback.class
@@ -830,6 +832,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ProductType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityExerciseBasket.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanParticipation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnSwapAdditionalPayment.class
+com\syndloanhub\loansum\fpml\v5_11\confirmation\Adapter2.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MatrixType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExtensionStyleEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DataDocument.class
@@ -1194,6 +1197,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\FxBarrierTypeSimpleEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Validation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CashflowNotional.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeSummary.class
+com\syndloanhub\loansum\fpml\v5_11\util\LocalDateTimeAdapter.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxFixingScheduleSimple.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Premium.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityExercisePeriods.class

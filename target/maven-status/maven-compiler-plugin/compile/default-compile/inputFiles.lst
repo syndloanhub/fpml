@@ -254,6 +254,7 @@ C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\BasicQuotation.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\AverageDailyTradingVolumeLimit.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\ContractualSupplement.java
+C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\Adapter2.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityFixedPriceSchedule.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\PhysicalSettlement.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\EuropeanExercise.java
@@ -291,6 +292,7 @@ C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\PricingContext.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingFacilityFeeAccrual.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\DirectionalLegUnderlyerValuation.java
+C:\Users\jsiss\Documents\github\fpml\src\main\java\com\syndloanhub\loansum\fpml\v5_11\util\DoubleAdapter.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBase.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTaskDates.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllocationSettlementEvent.java
@@ -897,6 +899,7 @@ C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\InterestAccrualsMethod.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\SupervisoryBody.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\FloatingRateOption.java
+C:\Users\jsiss\Documents\github\fpml\src\main\java\com\syndloanhub\loansum\fpml\v5_11\util\LocalDateTimeAdapter.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementTermsReference.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\FixedRate.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPipelineCycle.java
@@ -1135,6 +1138,7 @@ C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\IndustryClassification.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\ClassifiablePayment.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\FloatingAmountEvents.java
+C:\Users\jsiss\Documents\github\fpml\src\main\java\com\syndloanhub\loansum\fpml\v5_11\util\IntAdapter.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\NoTouchRateObservation.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\RoutingId.java
 C:\Users\jsiss\Documents\github\fpml\src\generated\java\com\syndloanhub\loansum\fpml\v5_11\confirmation\DiscountingTypeEnum.java
