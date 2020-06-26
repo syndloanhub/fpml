@@ -4,46 +4,58 @@
 	xmlns:fpml="http://www.fpml.org/FpML-5/confirmation"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.fpml.org/FpML-5/confirmation ../xsd/confirmation/fpml-loan-5-11.xsd ">
-	<fpml:header>
-		<fpml:messageId messageIdScheme="http://tempuri.org">fpml:messageId</fpml:messageId>
-		<fpml:sentBy
-			messageAddressScheme="http://www.loanmarketdirectory.com/external/schemes/MEI">US2A432121</fpml:sentBy>
-		<fpml:creationTimestamp>2013-12-17T09:30:47Z</fpml:creationTimestamp>
-	</fpml:header>
-	<fpml:isCorrection>true</fpml:isCorrection>
-	<!-- 
-	<fpml:onBehalfOf>
-		<fpml:partyReference href="idvalue0" />
-	</fpml:onBehalfOf>
-	-->
-	<fpml:statementDate>2001-01-01</fpml:statementDate> 
-	<fpml:facilityIdentifier>
-		<fpml:partyReference href="idvalue0" />
-		<fpml:instrumentId
-			instrumentIdScheme="http://www.cusip.com/">F123452TLA</fpml:instrumentId>
-	</fpml:facilityIdentifier>
-	<fpml:loanContract>
-		<fpml:partyReference href="idvalue0" />
-		<fpml:contractId contractIdScheme="http://tempuri.org">fpml:contractId</fpml:contractId>
-		<fpml:facilityReference href="idvalue0" />
-		<fpml:effectiveDate>2001-01-01</fpml:effectiveDate>
-		<fpml:borrowerPartyReference
-			href="idvalue0" />
-		<fpml:amount>
-			<fpml:currency>fpml:currency</fpml:currency>
-			<fpml:amount>0.0</fpml:amount>
-		</fpml:amount>
-		<fpml:fixedRateAccrual>
-			<fpml:accrualOptionId>fpml:accrualOptionId</fpml:accrualOptionId>
-			<fpml:dayCountFraction>fpml:dayCountFraction</fpml:dayCountFraction>
-			<fpml:rate>0.0</fpml:rate>
-			<fpml:startDate>2013-12-01</fpml:startDate>
-			<fpml:endDate>2014-02-01</fpml:endDate>
-			<fpml:numberOfDays>90</fpml:numberOfDays>
-		</fpml:fixedRateAccrual>
-	</fpml:loanContract>
-	<fpml:party id="idvalue0">
-		<fpml:partyId
-			partyIdScheme="http://www.loanmarketdirectory.com/external/schemes/MEI">US2A432121</fpml:partyId>
-	</fpml:party>
+	    <fpml:header>
+        <fpml:messageId messageIdScheme="http://www.syndloanhub.com/messaging/id">2096584922</fpml:messageId>
+        <fpml:sentBy messageAddressScheme="https://www.njportal.com">0600447425</fpml:sentBy>
+        <fpml:creationTimestamp>2020-06-26T17:24:49.214-04:00</fpml:creationTimestamp>
+    </fpml:header>
+    <fpml:isCorrection>false</fpml:isCorrection>
+    <fpml:statementDate>2017-05-01</fpml:statementDate>
+    <fpml:facilityIdentifier id="ID00000000">
+        <fpml:partyReference href="ID00000001"/>
+        <fpml:instrumentId instrumentIdScheme="http://www.fpml.org/coding-scheme/external/instrument-id-CUSIP">012345678</fpml:instrumentId>
+        <fpml:instrumentId instrumentIdScheme="http://www.fpml.org/coding-scheme/external/instrument-id-Bloomberg">012345678</fpml:instrumentId>
+    </fpml:facilityIdentifier>
+    <fpml:loanContract id="ID00000002">
+        <fpml:partyReference href="ID00000001"/>
+        <fpml:contractId contractIdScheme="http://www.fpml.org/coding-scheme/external/na">4</fpml:contractId>
+        <fpml:facilityReference href="ID00000000"/>
+        <fpml:effectiveDate>2017-04-26</fpml:effectiveDate>
+        <fpml:borrowerPartyReference href="ID00000003"/>
+        <fpml:amount>
+            <fpml:currency currencyScheme="http://www.fpml.org/coding-scheme/currency-1-0">USD</fpml:currency>
+            <fpml:amount>1794450000</fpml:amount>
+        </fpml:amount>
+        <fpml:maturityDate>2017-07-26</fpml:maturityDate>
+        <fpml:floatingRateAccrual>
+            <fpml:accrualOptionId accrualTypeIdScheme="http://www.syndloanhub.com/coding-scheme/na">N/A</fpml:accrualOptionId>
+            <fpml:dayCountFraction dayCountFractionScheme="http://www.fpml.org/coding-scheme/day-count-fraction-2-2">ACT/360</fpml:dayCountFraction>
+            <fpml:paymentFrequency>
+                <fpml:periodMultiplier>3</fpml:periodMultiplier>
+                <fpml:period>M</fpml:period>
+            </fpml:paymentFrequency>
+            <fpml:floatingRateIndex floatingRateIndexScheme="http://www.fpml.org/coding-scheme/floating-rate-index-2-30">USD-LIBOR-3M</fpml:floatingRateIndex>
+            <fpml:spread>0.0325</fpml:spread>
+            <fpml:startDate>2017-04-26</fpml:startDate>
+            <fpml:endDate>2017-07-26</fpml:endDate>
+            <fpml:numberOfDays>91</fpml:numberOfDays>
+            <fpml:rateFixingDate>1900-01-01</fpml:rateFixingDate>
+            <fpml:baseRate>0.011665000000000002</fpml:baseRate>
+            <fpml:defaultSpread>0.0325</fpml:defaultSpread>
+            <fpml:allInRate>0.044165</fpml:allInRate>
+            <fpml:paymentProjection>
+                <fpml:nextPaymentDate>2017-07-26</fpml:nextPaymentDate>
+                <fpml:projectedAmount>
+                    <fpml:currency currencyScheme="http://www.fpml.org/coding-scheme/currency-1-0">USD</fpml:currency>
+                    <fpml:amount>20033115.185416665</fpml:amount>
+                </fpml:projectedAmount>
+            </fpml:paymentProjection>
+        </fpml:floatingRateAccrual>
+    </fpml:loanContract>
+    <fpml:party id="ID00000001">
+        <fpml:partyId partyIdScheme="http://www.fpml.org/coding-scheme/external/iso9362">12345</fpml:partyId>
+    </fpml:party>
+    <fpml:party id="ID00000003">
+        <fpml:partyId partyIdScheme="http://www.fpml.org/coding-scheme/external/iso9362">23456</fpml:partyId>
+    </fpml:party>
 </fpml:outstandingContractsStatement>

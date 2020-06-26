@@ -52,6 +52,7 @@
 							<goal>jar</goal>
 						</goals>
 					</execution>
+					<!--  
 					<execution>
 						<id>aggregate-javadocs</id>
 						<inherited>false</inherited>
@@ -60,6 +61,7 @@
 							<goal>aggregate-jar</goal>
 						</goals>
 					</execution>
+					-->
 				</executions>
 			</plugin>
 			<plugin>
