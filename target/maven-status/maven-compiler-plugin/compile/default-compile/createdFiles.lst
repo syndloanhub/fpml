@@ -401,6 +401,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\FinancialSwapLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeTimestamp.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferenceBank.class
+com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumFacility.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBusinessCalendar.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NotionalReportingType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Representations.class
@@ -1086,6 +1087,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CountryCode.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CashSettlementReferenceBanks.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxOffsetConventionEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessCenter.class
+com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumPortfolio.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessDateRange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Metal.class

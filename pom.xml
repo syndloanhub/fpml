@@ -7,7 +7,7 @@
 	<groupId>com.syndloanhub.loansum</groupId>
 	<artifactId>loansum-jaxb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+
 	<packaging>jar</packaging>
 
 	<name>loansum-jaxb</name>
@@ -27,7 +27,8 @@
 						</goals>
 						<configuration>
 							<sources>
-								<source>src/main/xsd/confirmation/fpml-loan-5-11.xsd</source>
+								<!-- <source>src/main/xsd/confirmation/fpml-loan-5-11.xsd</source> -->
+								<source>src/main/xsd/loansum/loansum.xsd</source>
 							</sources>
 							<outputDirectory>src/generated/java</outputDirectory>
 							<schemaDirectory>${project.basedir}/src/main/xsd/confirmation</schemaDirectory>
@@ -52,25 +53,17 @@
 							<goal>jar</goal>
 						</goals>
 					</execution>
-					<!--  
-					<execution>
-						<id>aggregate-javadocs</id>
-						<inherited>false</inherited>
-						<phase>package</phase>
-						<goals>
-							<goal>aggregate-jar</goal>
-						</goals>
-					</execution>
-					-->
+					<!-- <execution> <id>aggregate-javadocs</id> <inherited>false</inherited> 
+						<phase>package</phase> <goals> <goal>aggregate-jar</goal> </goals> </execution> -->
 				</executions>
 			</plugin>
 			<plugin>
-      			<artifactId>maven-compiler-plugin</artifactId>
-        		<configuration>
-          			<source>1.8</source>
-          			<target>1.8</target>
-        		</configuration>
-    		</plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
 		</plugins>
 	</build>
 	<dependencies>
