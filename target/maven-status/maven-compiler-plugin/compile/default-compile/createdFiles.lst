@@ -401,7 +401,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\FinancialSwapLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeTimestamp.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferenceBank.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumFacility.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBusinessCalendar.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NotionalReportingType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Representations.class
@@ -646,6 +645,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditEventsReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EquityPremium.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\UpfrontFeePayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CalculationAgent.class
+com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumPortfolioType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GenericExerciseStyle.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySwaption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LegAmount.class
@@ -1087,7 +1087,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CountryCode.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CashSettlementReferenceBanks.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxOffsetConventionEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessCenter.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumPortfolio.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessDateRange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Metal.class
@@ -1130,6 +1129,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ClearingStatusItem.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SimpleFra.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StubCalculationPeriod.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\QuotationRateTypeEnum.class
+com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumFacilityType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ApplicableCommunicationDetails.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Allocations.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OrganizationCharacteristic.class

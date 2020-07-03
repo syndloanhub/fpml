@@ -9,25 +9,33 @@
 	<xsd:include
 		schemaLocation="../confirmation/fpml-loan-5-11.xsd" />
 
-	<xsd:complexType name="LoansumFacility">
-		<xsd:sequence>
-			<xsd:element name="facility" type="FacilityStatement"
-				minOccurs="0" maxOccurs="1" />
-			<xsd:element name="contracts"
-				type="LoanServicingNotification" minOccurs="0" maxOccurs="1" />
-			<xsd:element name="trades" type="LoanTrade" minOccurs="0"
-				maxOccurs="1" />
-		</xsd:sequence>
-	</xsd:complexType>
-
-	<xsd:complexType name="LoansumPortfolio">
-		<xsd:sequence>
-			<xsd:element name="facilities" type="LoansumFacility"
-				minOccurs="1" maxOccurs="unbounded" />
-		</xsd:sequence>
-	</xsd:complexType>
-
-	<xsd:element name="loansumFacility" type="LoansumFacility" />
 	<xsd:element name="loansumPortfolio"
-		type="LoansumPortfolio" />
+		type="loansumPortfolioType" />
+
+	<xsd:complexType name="loansumPortfolioType">
+		<xsd:sequence>
+			<xsd:element ref="loansumFacility" minOccurs="0"
+				maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:element name="loansumFacility"
+		type="loansumFacilityType" />
+
+	<xsd:complexType name="loansumFacilityType">
+		<xsd:sequence>
+			<xsd:element ref="FpMLFacility" minOccurs="1"
+				maxOccurs="1" />
+			<xsd:element ref="FpMLContracts" minOccurs="1"
+				maxOccurs="1" />
+			<xsd:element ref="FpMLTrade" minOccurs="1"
+				maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:element name="FpMLFacility" type="FacilityStatement" />
+	<xsd:element name="FpMLContracts"
+		type="LoanServicingNotification" />
+	<xsd:element name="FpMLTrade" type="LoanTradeNotification" />
+
 </xsd:schema>
