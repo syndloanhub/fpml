@@ -20,16 +20,25 @@
 		<jaxb:javaType name="double" xmlType="xs:decimal"
 			parseMethod="com.syndloanhub.loansum.fpml.v5_11.util.DoubleAdapter.parse"
 			printMethod="com.syndloanhub.loansum.fpml.v5_11.util.DoubleAdapter.print" />
-			<!--  
-		<jaxb:javaType name="int" xmlType="xs:integer"
-			parseMethod="com.syndloanhub.loansum.fpml.v5_11.util.IntAdapter.parse"
-			printMethod="com.syndloanhub.loansum.fpml.v5_11.util.IntAdapter.print" />
-			-->
+		<!-- <jaxb:javaType name="int" xmlType="xs:integer" parseMethod="com.syndloanhub.loansum.fpml.v5_11.util.IntAdapter.parse" 
+			printMethod="com.syndloanhub.loansum.fpml.v5_11.util.IntAdapter.print" /> -->
 		<xjc:serializable uid="54" />
 	</jaxb:globalBindings>
 
 	<jaxb:bindings
+		schemaLocation="../xsd/loansum/loansum.xsd">
+		<jaxb:schemaBindings>
+			<jaxb:package
+				name="com.syndloanhub.loansum.fpml.v5_11.loansum" />
+		</jaxb:schemaBindings>
+	</jaxb:bindings>
+
+	<jaxb:bindings
 		schemaLocation="../xsd/confirmation/fpml-loan-5-11.xsd">
+		<jaxb:schemaBindings>
+			<jaxb:package
+				name="com.syndloanhub.loansum.fpml.v5_11.confirmation" />
+		</jaxb:schemaBindings>
 	</jaxb:bindings>
 
 </jaxb:bindings>

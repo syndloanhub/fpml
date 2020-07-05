@@ -18,6 +18,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\FxAverageRateObservationSchedule
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AmountSchedule.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LcType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NonNegativeAmountSchedule.class
+org\w3\_2000\_09\xmldsig_\ObjectFactory.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditLimitUtilization.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DividendPeriodEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ApplicableTransactionType.class
@@ -82,9 +83,11 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LcTermination.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ProductSummary.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WeatherCalculationPeriods.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\InterestCalculationMethodEnum.class
+org\w3\_2000\_09\xmldsig_\X509IssuerSerialType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityValuationDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SpecifiedCurrency.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BasketChangeEvent.class
+org\w3\_2000\_09\xmldsig_\SignatureType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExchangeTradedCalculatedPrice.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FloatingRateOption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferenceInformation.class
@@ -97,6 +100,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\AccruingPikOption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ResourceLength.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityHubCode.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Return.class
+org\w3\_2000\_09\xmldsig_\SignatureValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EventIdentifier.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LcRenewal.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingAccruingFeeTypeEnum.class
@@ -116,7 +120,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\DefaultRateExpiry.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExtraordinaryEvents.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReportId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeNotionalChange.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\DigestMethodType.class
+org\w3\_2000\_09\xmldsig_\KeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Exercise.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Address.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditQuality.class
@@ -132,6 +136,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPerformanceSwap.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ObligationCategoryEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Reason.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingVotingRightsEnum.class
+org\w3\_2000\_09\xmldsig_\ManifestType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Person.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ContactInformation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TriggerRateObservation.class
@@ -158,10 +163,10 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\MultiCurrency.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AbstractLoanStatement.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DividendCompositionEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FailureToPay.class
+org\w3\_2000\_09\xmldsig_\TransformType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PeriodicPayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NotDomesticCurrency.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MainPublication.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\CanonicalizationMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WeatherIndex.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ConvertibleBond.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxTargetStyleEnum.class
@@ -178,7 +183,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\GeneralTerms.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxValuationDateOffset.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ResetFrequency.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StartingDate.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\PGPDataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllocationNotification.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MasterAgreementVersion.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityInformationProvider.class
@@ -190,6 +194,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\AccountReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ElectricityDelivery.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OriginatingEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PartyGroupType.class
+org\w3\_2001\xmlschema\Adapter2.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AbstractLcEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EnvironmentalPhysicalLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityStrikeSchedule.class
@@ -260,6 +265,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllocationTransferFeeOwedEve
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FloatingRateAccrual.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AdmissionToTrading.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ProtectionTermsReference.class
+org\w3\_2000\_09\xmldsig_\DSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FacilityPrepaymentFeePayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityFixedPriceSchedule.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeChangeContent.class
@@ -305,7 +311,9 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\MarketDisruptionEventsEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MasterConfirmationAnnexType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DividendDateReferenceEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GasDeliveryPoint.class
+com\syndloanhub\loansum\fpml\v5_11\loansum\ObjectFactory.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EquityValuation.class
+org\w3\_2000\_09\xmldsig_\KeyInfoType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MatrixSource.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoadTypeEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EnvironmentalProductComplaincePeriod.class
@@ -362,6 +370,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllAssetsEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingLoanContractAccrual.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityMetalProducer.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ResetRelativeToEnum.class
+org\w3\_2000\_09\xmldsig_\SignaturePropertyType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AdditionalEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Adjustment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CalculationPeriodsDatesReference.class
@@ -399,13 +408,11 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityForwardLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Variance.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FinancialSwapLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeTimestamp.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\DSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferenceBank.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBusinessCalendar.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NotionalReportingType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Representations.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ImplementationSpecification.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignatureMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LinkedTrade.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DualCurrencyStrikeQuoteBasisEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxSwapLeg.class
@@ -413,7 +420,9 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LinkId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ChangeEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBasketByNotional.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPhysicalQuantity.class
+com\syndloanhub\loansum\fpml\v5_11\loansum\FacilityType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CollateralValueAllocationEnum.class
+org\w3\_2000\_09\xmldsig_\DigestMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CalculationPeriodsScheduleReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditLimitUtilizationPosition.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DividendPaymentDate.class
@@ -427,11 +436,9 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeLegPriceChange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DataProvider.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityReturnLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AdditionalData$OriginalMessage.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\KeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Withdrawal.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityBasketOption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PartyMessageInformation.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\RetrievalMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradePackage.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxBusinessCenterDateTime.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTaskStatusEnum.class
@@ -500,11 +507,9 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\AssetClass.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\InstrumentId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanContractBaseRateSet.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllocationNoSettlePeriodType.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\ObjectType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxFlexibleForwardRate.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\IdentifiedCurrencyReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeChangeBase.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\X509DataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PersonReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityNotionalQuantitySchedule.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditSupportAgreementType.class
@@ -513,7 +518,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Beneficiary.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPhysicalQuantityBase.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAllocationSettlementDateFinalizationEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementInstruction.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferenceType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SimplePayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Commodity.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DeterminationMethodReference.class
@@ -580,6 +584,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ProposedCollateralAllocation.cla
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GenericAsset.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExerciseProcedure.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CouponType.class
+org\w3\_2000\_09\xmldsig_\TransformsType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StubFloatingRate.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanServicingNotification.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\RequestMessage.class
@@ -588,6 +593,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\BrokerConfirmationType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SpreadSchedule.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CashflowFixing.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DividendPayout.class
+org\w3\_2000\_09\xmldsig_\ReferenceType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TransferFeeRule.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Reference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessProcess.class
@@ -598,18 +604,15 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\PartyProfileDocumentation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySpread.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxDisruptionProvisions.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\VerificationStatusNotification.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\TransformsType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AveragingInOutEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessCentersReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PaymentProjection.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignaturePropertyType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FacilityReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeCategory.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LengthUnitEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExchangeTradedContract.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PremiumQuoteBasisEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FacilityExtensionFeePayment.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignatureValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WeatherLegCalculation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PortfolioName.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxOption.class
@@ -621,6 +624,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommissionDenominationEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanPartyProfileStatement.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AdjustableOrRelativeDate.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferencePoolItem.class
+com\syndloanhub\loansum\fpml\v5_11\loansum\package-info.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MultipleValuationDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Repayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StubValue.class
@@ -645,12 +649,12 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditEventsReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EquityPremium.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\UpfrontFeePayment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CalculationAgent.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumPortfolioType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GenericExerciseStyle.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySwaption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LegAmount.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignatureType.class
+org\w3\_2000\_09\xmldsig_\CanonicalizationMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StreetAddress.class
+org\w3\_2000\_09\xmldsig_\RSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxStraddleTypeEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LetterOfCreditSummary.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ApplicableTransactions.class
@@ -658,6 +662,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingCounterpartySettlemen
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxRegionLowerBoundDirectionEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\EntityType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityHub.class
+com\syndloanhub\loansum\fpml\v5_11\loansum\PortfolioType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FacilityExecutionExceptionDeclaration.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CalendarSourceEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ClearingStatusValue.class
@@ -675,6 +680,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\FxAsianFeature.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GasPhysicalQuantity.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\InterpolationMethod.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LetterOfCreditFacility.class
+org\w3\_2000\_09\xmldsig_\SignaturePropertiesType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReferencePool.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FixedRateOption.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxPerformanceFloatingLeg.class
@@ -724,7 +730,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Rollover.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\InformationProvider.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityMetalBrandManager.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FutureId.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\TransformType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\RelatedParty.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GasQuality.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementPeriodsReference.class
@@ -791,7 +796,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LcAdjustment.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ActionOnExpiration.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CoalStandardQuality.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AbstractLoanServicingEvent.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\ManifestType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AbstractEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AccountName.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FPVFinalPriceElectionFallbackEnum.class
@@ -833,7 +837,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ProductType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityExerciseBasket.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanParticipation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnSwapAdditionalPayment.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\Adapter2.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MatrixType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExtensionStyleEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DataDocument.class
@@ -900,6 +903,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Party.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\VersionedTradeId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GenericProduct.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FacilityCommitment.class
+org\w3\_2001\xmlschema\Adapter1.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessCenterTime.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AccruingFeeChange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TimestampTypeScheme.class
@@ -916,6 +920,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySwap.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradeSummary.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DealReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PricingStructureReference.class
+org\w3\_2000\_09\xmldsig_\X509DataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityDigitalExercise.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AssociationToAssetId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\DualCurrencyStrikePrice.class
@@ -961,6 +966,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\LimitType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ResourceId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Frequency.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NonCorrectableRequestMessage.class
+org\w3\_2000\_09\xmldsig_\package-info.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Compounding.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PhysicalSettlementPeriod.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NumberOfOptionsReference.class
@@ -1080,7 +1086,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\EventsChoice.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySettlementPeriodsNotionalQuantity.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WeatherIndexData.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CoalPhysicalLeg.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignaturePropertiesType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityReturnCalculation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityRelativePaymentDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CountryCode.class
@@ -1092,18 +1097,19 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessDateRange.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Metal.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReportSectionIdentification.class
 com\syndloanhub\loansum\fpml\v5_11\util\LocalDateAdapter.class
+org\w3\_2000\_09\xmldsig_\PGPDataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeIdentifierExtended.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AccruingFeeType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityPayRelativeToEvent.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxTerms.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SPKIDataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\MoneyRef.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanInterestPayment.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\Adapter1.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ParentTaskIdentifier.class
+org\w3\_2000\_09\xmldsig_\RetrievalMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Portfolio.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SupervisoryBody.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ExchangeTradedFund.class
+org\w3\_2000\_09\xmldsig_\SignatureMethodType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CoalProductSource.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LimitId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Commission.class
@@ -1111,6 +1117,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CompoundingRate.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PersonId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GenericProductFeature.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AmountRef.class
+org\w3\_2000\_09\xmldsig_\SPKIDataType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LinkType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PackageType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanTradingAccrualSettlementEnum.class
@@ -1129,7 +1136,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\ClearingStatusItem.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SimpleFra.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StubCalculationPeriod.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\QuotationRateTypeEnum.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\LoansumFacilityType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ApplicableCommunicationDetails.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Allocations.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OrganizationCharacteristic.class
@@ -1151,7 +1157,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySwapLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ShareExtraordinaryEventEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CashflowId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BusinessCenters.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\SignedInfoType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PubliclyAvailableInformation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\IndexReferenceInformation.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\FxTrigger.class
@@ -1192,6 +1197,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementInstructionId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TaxWithholding.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\AdjustedPaymentDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommitmentChange.class
+org\w3\_2000\_09\xmldsig_\ObjectType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditOptionStrike.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanAcknowledgement.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\TradeUnderlyer2.class
@@ -1205,8 +1211,8 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Premium.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityExercisePeriods.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ReturnSwapEarlyTermination.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Approvals.class
+org\w3\_2000\_09\xmldsig_\SignedInfoType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\StrikeSpread.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\X509IssuerSerialType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\RoutingId.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\BullionTypeEnum.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PartyEntityClassification.class
@@ -1235,7 +1241,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\Tranche.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OilPhysicalLeg.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityMetalBrandName.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\IssuerId.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\KeyInfoType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PartialExercise.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\GracePeriodExtension.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\LoanContractSummary.class
@@ -1248,7 +1253,6 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\SettlementDetails.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PortfolioReferenceBase.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\Basket.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\SinglePayment.class
-com\syndloanhub\loansum\fpml\v5_11\confirmation\RSAKeyValueType.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CreditEventNotice.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\WithdrawalReason.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OilProductType.class

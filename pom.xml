@@ -27,14 +27,9 @@
 						</goals>
 						<configuration>
 							<sources>
-								<!-- <source>src/main/xsd/confirmation/fpml-loan-5-11.xsd</source> -->
 								<source>src/main/xsd/loansum/loansum.xsd</source>
 							</sources>
 							<outputDirectory>src/generated/java</outputDirectory>
-							<schemaDirectory>${project.basedir}/src/main/xsd/confirmation</schemaDirectory>
-							<packageName>com.syndloanhub.loansum.fpml.v5_11.confirmation</packageName>
-							<staleFile>${project.build.directory}/jaxb2/.confirmationXjcStaleFlag</staleFile>
-							<removeOldOutput>false</removeOldOutput>
 						</configuration>
 					</execution>
 				</executions>
@@ -71,7 +66,6 @@
 			<groupId>com.googlecode.jaxb-namespaceprefixmapper-interfaces</groupId>
 			<artifactId>JAXBNamespacePrefixMapper</artifactId>
 			<version>2.2.4</version>
-			<!-- <scope>provided</scope> -->
 		</dependency>
 	</dependencies>
 </project>
