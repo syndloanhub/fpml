@@ -33,11 +33,19 @@
 		</xsd:sequence>
 	</xsd:complexType>
 
+	<xsd:complexType name="Trade">
+		<xsd:sequence>
+			<xsd:element name="trade"
+				type="fpml:LoanTradeNotification" minOccurs="1" maxOccurs="1" />
+			<xsd:element name="allocation"
+				type="fpml:LoanAllocationNotification" minOccurs="0" maxOccurs="1" />
+		</xsd:sequence>
+	</xsd:complexType>
+
 	<xsd:element name="FpMLFacility"
 		type="fpml:FacilityStatement" />
 	<xsd:element name="FpMLContracts"
 		type="fpml:LoanServicingNotification" />
-	<xsd:element name="FpMLTrade"
-		type="fpml:LoanTradeNotification" />
+	<xsd:element name="FpMLTrade" type="ls:Trade" />
 
 </xsd:schema>

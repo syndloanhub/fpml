@@ -1151,6 +1151,7 @@ com\syndloanhub\loansum\fpml\v5_11\confirmation\CommodityDeliveryRisk.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\OptionStrike.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\ImplementationSpecificationVersion.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommitmentSchedule.class
+com\syndloanhub\loansum\fpml\v5_11\loansum\Trade.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\NumberOfUnitsReference.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\PeriodicDates.class
 com\syndloanhub\loansum\fpml\v5_11\confirmation\CommoditySwapLeg.class
